@@ -1,9 +1,9 @@
 <h1 align="center">
-  🚀 Portfolio by Satya
+  🚀 Portfolio by Satyax ayush 
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122654845/260352229-bd2dcf1f-c4dc-4127-b779-43d379c8a58b.png" alt="Portfolio Banner" />
+  <img src="https://raw.githubusercontent.com/your-username/portfolio-by-satya/main/header.png" alt="Portfolio Banner" />
 </p>
 
 <p align="center">
@@ -26,10 +26,9 @@
 - 💨 Powered by TailwindCSS and App Router
 - 🧩 Reusable components using shadcn/ui
 - 🔒 Clean TypeScript codebase
-- ( KANG KRNE WALE KI MKC 2 BAAAR
-- KANG KARNE SE PEHLE CREDIT DENA WARNA GAAND MAAR LUNGA LOUDE
-
----MADE BY AAYUSH SIR @WOXPC
+kang kara to lawde credit dena 
+warna gaand maar lunga made by satya x ayush op
+---
 
 ## 🛠 Tech Stack
 
@@ -38,16 +37,14 @@
 - ✅ TypeScript
 - ✅ Vercel Hosting
 - ✅ shadcn/ui Components
-- MADE BY AAYUSH X SATYA SIR
-
+  🫩MADE BY AAYUSH SIR @WOXPC
 ---
 
 ## 🚀 Getting Started
-
-Clone the repo:
 
 ```bash
 git clone https://github.com/your-username/portfolio-by-satya.git
 cd portfolio-by-satya
 npm install
 npm run dev
+MADE BY AYUSH 
