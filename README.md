@@ -29,7 +29,7 @@
 - ( KANG KRNE WALE KI MKC 2 BAAAR
 - KANG KARNE SE PEHLE CREDIT DENA WARNA GAAND MAAR LUNGA LOUDE
 
----
+---MADE BY AAYUSH SIR @WOXPC
 
 ## 🛠 Tech Stack
 
@@ -38,6 +38,7 @@
 - ✅ TypeScript
 - ✅ Vercel Hosting
 - ✅ shadcn/ui Components
+- MADE BY AAYUSH X SATYA SIR
 
 ---
 
